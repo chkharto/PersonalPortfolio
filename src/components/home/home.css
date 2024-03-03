@@ -193,9 +193,6 @@ nav .fas {
 }
 
 @media screen and (max-width: 600px) {
-  #header {
-  }
-
   .header-text {
     margin-top: 100%;
     font-size: 16px;

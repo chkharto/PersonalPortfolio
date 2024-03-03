@@ -1,9 +1,9 @@
 import React from "react";
 import "./home.css";
-import userImage from "../../user.png";
-import work1 from "../../project1.png";
-import work2 from "../../catalog.png";
-import work3 from "../../project3.png";
+import userImage from "../img/user.png";
+import work1 from "../img/project1.png";
+import work2 from "../img/catalog.png";
+import work3 from "../img/project3.png";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { FaSquarePhoneFlip } from "react-icons/fa6";
